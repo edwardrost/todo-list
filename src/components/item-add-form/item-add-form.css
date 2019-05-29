@@ -1,0 +1,17 @@
+.item-add-form {
+  margin-top: 10px;
+}
+
+.item-add-form input {
+  margin-right: 3px;
+}
+
+button {
+	white-space: nowrap;
+}
+/*.bottom-panel .new-todo-label {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+}
+*/
